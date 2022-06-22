@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nuga-dev
+- 👋 Hi, I’m Nuga.
 - 👀 I’m interested in FiveM developement.
 - 🌱 I’m currently learning CSS, HTML and JS.
 - 📫 How to reach me: nuga#5889 at discord.
