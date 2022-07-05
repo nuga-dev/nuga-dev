@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nuga.
 - 👀 I’m interested in FiveM developement.
-- 📫 How to reach me: nuga#5889 at discord.
+- 📫 How to reach me: nuga#0001 at discord.
 
 ## ❤ Views and Followers
 
